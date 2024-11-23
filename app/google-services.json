@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "23527989808",
+    "project_id": "sakrdb-e667b",
+    "storage_bucket": "sakrdb-e667b.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:23527989808:android:574342a670810589e1c3f5",
+        "android_client_info": {
+          "package_name": "com.example.sakr"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC86Ac04wQb-5MhtfeQoDhmqZ3vFYmwAs4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
